@@ -4,14 +4,14 @@
 🤖 Powered by Galactic Intelligence
 This interstellar Blackjack adventure is brought to you by Claude and Gemini, two AI copilots from beyond the stars, collaborating to deliver a retro-futuristic casino escapade across the galaxy.
 
-🌌 Stellar Features
+# 🌌 Stellar Features
 🧠 Alien Intelligence Strategy – The AI learns your tactics like a mind-reading Martian.
 
 🛸 Retro Arcade Aesthetic – Neon visuals and vintage charm straight from a ‘70s sci-fi comic.
 
 📡 Mission Logs & Metrics – Analyze your odds, outcomes, and tactical maneuvers in deep space.
 
-🪐 How to Play
+# 🪐 How to Play
 💰 Transmit your space credits to initiate a new mission.
 
 👽 Get your cards from the deck nebula, and choose to Hyper-Jump 🃏 or Hold Orbit ✋.
@@ -20,7 +20,7 @@ This interstellar Blackjack adventure is brought to you by Claude and Gemini, tw
 
 🧬 The AI Raider plays its turn — only one captain wins this cosmic clash.
 
-🚀 Incoming Hyper-Updates
+# 🚀 Incoming Hyper-Updates
 🌠 Galactic Multiplayer – Face off with friends across the stars.
 
 🥇 Interstellar Leaderboards – Rise in the ranks of the Blackjack Federation.
