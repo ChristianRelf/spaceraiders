@@ -1,8 +1,10 @@
 # spaceraiders
-100% AI made and updated space raider:warning: Cosmic Alert: This star-cruising code is still in warp-development — space bugs may appear! 🛸
-👾 Space Raiders Blackjack 🚀♠️
+100% AI made and updated space raider
+:warning: Cosmic Alert: This star-cruising code is still in warp-development — space bugs may appear! 🛸
+
+👾 Space Raiders  🚀♠️
 🤖 Powered by Galactic Intelligence
-This interstellar Blackjack adventure is brought to you by Claude and Gemini, two AI copilots from beyond the stars, collaborating to deliver a retro-futuristic casino escapade across the galaxy.
+This interstellar adventure is brought to you by Claude and Gemini, two AI copilots from beyond the stars, collaborating to deliver a retro-futuristic casino escapade across the galaxy.
 
 # 🌌 Stellar Features
 🧠 Alien Intelligence Strategy – The AI learns your tactics like a mind-reading Martian.
